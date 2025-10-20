@@ -21,7 +21,7 @@
         <dependency>
             <groupId>io.github.marcoratto</groupId>
             <artifactId>mqttsn12-java-client</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
         </dependency>
 
         <!-- Log4j API -->
